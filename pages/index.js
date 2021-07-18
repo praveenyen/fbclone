@@ -12,7 +12,7 @@ export default function Home() {
 
       <Header />
 
-      <h1>Let's build Facebook</h1>
+      <h1>Lets build Facebook</h1>
     </div>
   )
 }
